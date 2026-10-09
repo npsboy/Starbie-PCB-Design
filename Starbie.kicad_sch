@@ -5,16 +5,6 @@
 	(uuid "3b061f5d-cabd-4386-ad73-9e63424997a0")
 	(paper "A4")
 	(lib_symbols)
-	(label "test"
-		(at 120.65 186.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a971d079-067e-44ac-9e9f-9390e460ed4a")
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
