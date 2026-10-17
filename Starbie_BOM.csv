@@ -1,4 +1,4 @@
-Part,What it's for,Qty,Unit $,Vendor,Link,Notes
+Part,What it's for,Qty,UNIT,Vendor,Link,Notes
 Seeed Studio XIAO ESP32C3 (U2),Wi-Fi and the main loop (microcontroller),1,15.91,Amazon,https://www.amazon.in/dp/B0B94JZ2YF,"Rs 1,534.95. Chose the version WITHOUT pre-soldered headers - it is soldered flat by its edge pads"
 0.96in 128x64 I2C OLED - 4-pin (J1),Shows the pet and the menu,1,1.68,Ktron,https://www.ktron.in/product/oled-display-i2c-0-96-inch/,"Rs 161.90 incl. GST. White, SSD1306, 4-pin header pre-soldered. Check the pin order is GND-VCC-SCL-SDA (listing doesn't say). Solder it directly to the board (no socket) so the keycaps clear it"
 MPU6050 GY-521 accelerometer/gyro module (J2),Tilt to steer the menu and shake detection,1,1.99,Ktron,https://www.ktron.in/product/mpu6050-module/,Rs 192.50 incl. GST. Check it is the 8-pin GY-521 layout (VCC-GND-SCL-SDA-XDA-XCL-AD0-INT) - the listing doesn't show the pinout
