@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Starbie_Parts")(type "KiCad")(uri "${KIPRJMOD}/libs/Starbie_Parts.pretty")(options "")(descr "Week 1 Care Package"))
+)
