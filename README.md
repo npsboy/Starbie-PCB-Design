@@ -12,7 +12,7 @@ A small KiCad PCB project: a handheld board built around a Seeed XIAO ESP32-C3, 
 
 Full BOM with vendor links and notes: [Starbie_BOM.csv](Starbie_BOM.csv) (prices in USD, vendors in India).
 
-| Part | Ref | Purpose | Qty | Unit $ | Vendor |
+| Part | Ref | Purpose | Qty | UNIT | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | Seeed Studio XIAO ESP32C3 | U2 | Microcontroller (Wi-Fi, main loop) | 1 | 15.91 | [Amazon](https://www.amazon.in/dp/B0B94JZ2YF) |
 | 0.96in 128x64 I2C OLED, 4-pin | J1 | Shows the pet and the menu | 1 | 1.68 | [Ktron](https://www.ktron.in/product/oled-display-i2c-0-96-inch/) |
