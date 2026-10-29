@@ -4,9 +4,24 @@ A small KiCad PCB project: a handheld board built around a Seeed XIAO ESP32-C3, 
 
 ![Starbie PCB design](images/PCB-Design.png)
 
+## What is it?
+
+The Starbie is a handheld PCB with an embedded OLED display that acts as a digital pet. You can interact with the digital character using push buttons and using the gyroscope (motion sensor), which can detect tilts, shakes and so on.
+
+## What each part does:
+- XIAO ESP32C3: The main brain of the system. This is a small development board, kind of like a regular esp 32 or raspberri-pi pico, not a bare microcontroller processor.
+- OLED: The main screen that displays the charecter/pet.
+- Accelerometer/Gyro: Detects tilts, shakes, etc.
+- Temperature and humidity sensor: Exactly what it says it does. Can be used later to trigger different animations for the pet based on the environmental conditions.
+- Mechanical keyboard switches: These are the two push buttons that help us interact with the pet. These are not the standard push buttons that you usually see, though.
+- MX Keycaps: The keyboard switches do not come with a keycap. You have to buy and attach it yourself, or clicking the buttons won't be very comfortable.
+
 ## Schematic
 
 ![Starbie schematic](images/Schematic.png)
+
+## 3D Render
+![Starbie_3D_render](images/Starbie_3d_model.png)
 
 ## Bill of Materials
 
