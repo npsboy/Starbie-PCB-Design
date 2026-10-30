@@ -20,6 +20,7 @@ Full BOM with vendor links and notes: [Starbie_BOM.csv](Starbie_BOM.csv) (prices
 | DHT11 temperature/humidity sensor, bare 4-pin | U1 | Senses room temperature and humidity | 1 | 0.96 | [Ktron](https://www.ktron.in/product/dht11-temperature-and-humidity-sensor/) |
 | MX-style mechanical keyboard switches | SW1, SW2 | The two buttons (menu and stats) | 1 pack | 8.28 | [Amazon](https://www.amazon.in/dp/B0G39H2G4H) |
 | Blank MX keycaps | SW1, SW2 | Caps for the two buttons | 1 pack | 7.18 | [Amazon](https://www.amazon.in/dp/B0HD587C9N) |
+| PCB fabrication, 2-layer FR4, 98.04x98.8 mm | | The bare Starbie board (Rs 2,166 for 5 boards, about Rs 433 each) | 1 order (5 boards) | 22.45 | [LionCircuits](https://www.lioncircuits.com/) |
 
 ## Contents
 
